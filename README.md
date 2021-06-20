@@ -1,7 +1,7 @@
 # italy
 <html>
   <head>
-    <link href="css.style" rel="stylesheet" type="text/css">
+    <link href="style.css" rel="stylesheet" type="text/css">
 </head>
     <h1> Все про Италию </h1>
     <img src="https://static.dw.com/image/53302685_303.jpg"/>
