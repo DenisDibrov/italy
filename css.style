@@ -35,7 +35,7 @@ h5{
 img {
     width: 700px ;
     height: 500px ;
-    img-align:center
+    img-align:center ;
 }
 h6 {
     text-align: center;
