@@ -4,32 +4,34 @@ body {
 H1 {
    
     color: green ;
-
     text-align: center ;
+      font-size: 12px ;
 
 }
 
 h2 {
     color:black ;
     text-align: center ;
+      font-size: 12px ;
 
 }
 
 h3 {
     text-align: center;
     color: crimson
-    
+      font-size: 12px ;
 }
 
 h4 {
     text-align: center ;
     color: black 
+          font-size: 12px ;
     }
 
 
 h5{ 
     text-align:center ;
-    font-size: 40px ;
+    font-size: 12px ;
 }
 
 img {
@@ -42,7 +44,7 @@ img {
 h6 {
     text-align: center;
     color: crimson  ;
-    font-size: 20px ;
+    font-size: 12px ;
     margin-top: 20px ;
 
 
