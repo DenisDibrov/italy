@@ -32,6 +32,11 @@ h5{
     font-size: 40px ;
 }
 
+img {
+    width: 700px ;
+    height: 500px ;
+    img-align:center ;
+}
 
 
 h6 {
