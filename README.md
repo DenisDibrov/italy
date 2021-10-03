@@ -25,7 +25,7 @@
 <img src="https://italy4.me/wp-content/uploads/2015/02/flag-italii.jpg"/>
 
 <h5> Достопримечательности </h5>
-<img src="https://lh3.googleusercontent.com/proxy/0dBQX3dF65B9gryOaBw89JqxogeLLDCdmO4W4r38Qwo3KIcXyhuUrltmNgvMcnac2LZKEYDI_cJ1jJofR07k1T9xcW7aGCDqJWix4zATt45_kg"/>
+
 
 <img src="https://tourlib.net/statti5/images/italy3.jpg"/>
   
