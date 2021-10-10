@@ -56,7 +56,7 @@ p {
     font-size: 12px ;
 }
 
-a:focus {
+a:hover {
 color: green;
 }
 
