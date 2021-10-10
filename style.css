@@ -67,3 +67,7 @@ color: green;
 a:visited {
     color:grey;
 }
+
+a:unvisited {
+    color: blue;
+}
