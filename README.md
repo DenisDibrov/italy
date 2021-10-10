@@ -26,8 +26,6 @@
 
 <h5> Достопримечательности </h5>
 
-
-  
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xL6xULPn5MjHRP3cBgv5Ghgq84BnTCEo2g&usqp=CAU"/>
 
 <h6> История Италии </h6>
