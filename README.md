@@ -3,7 +3,7 @@
 <meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="italy" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://denisdibrov.github.io/italy/" />
+
 <meta property="og:url" content="https://denisdibrov.github.io/italy/" />
 <meta property="og:site_name" content="italy" />
 <meta name="twitter:card" content="summary" />
