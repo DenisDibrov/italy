@@ -1,6 +1,6 @@
 html { 
    background-img: url(https://oir.mobi/uploads/posts/2021-03/1616436872_38-p-zadnii-fon-dlya-intro-45.jpg);
-   opacity: 1;
+   opacity: 0.6;
 }
 
 body {
@@ -61,8 +61,8 @@ color: green;
 }
 
 img {
-   height: 700px; 
-   width: 527px;
+   height: 1100px; 
+   width: 700px;
 }
 
 
